@@ -3,3 +3,9 @@ utility function for version control
 ...
 ...
 now this is my first edit
+
+
+some basic git commands:
+git status
+git add .
+git commit -m "name of version"
